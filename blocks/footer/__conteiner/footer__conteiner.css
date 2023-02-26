@@ -1,0 +1,10 @@
+.footer__conteiner {
+    display: flex;
+    justify-content: space-between;
+  }
+  @media (max-width: 500px) {
+    .footer__conteiner {
+        flex-direction: column;
+        align-items: baseline;
+      }
+  }

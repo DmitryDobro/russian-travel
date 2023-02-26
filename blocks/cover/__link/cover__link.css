@@ -1,0 +1,19 @@
+.cover__link {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  .cover__link::before {
+    content: '';
+    position: absolute;
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: url(../../../images/__background2048.png) no-repeat top/cover;
+    transition: opacity 0.5s ease;
+  }

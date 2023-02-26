@@ -1,0 +1,8 @@
+.places__website {
+    align-self: flex-end;
+  }
+  @media (max-width: 620px) {
+    .places__website {
+      padding: 0 16px;
+    }
+  }

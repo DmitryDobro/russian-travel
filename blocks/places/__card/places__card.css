@@ -1,0 +1,23 @@
+.places__card {
+    margin-bottom: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px 40px;
+  }
+  .places__card:last-child {
+    margin-bottom: 0;
+  }
+  @media (max-width: 1024px) {
+    .places__card {
+      gap: 48px 28px;
+    }
+  }
+
+  @media (max-width: 620px) {
+    .places__card {
+      margin-bottom: 50px;
+      gap: 32px 0;
+      flex-direction: column;
+    }
+  }
+  
