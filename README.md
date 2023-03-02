@@ -11,3 +11,4 @@
 4. Вычисляемые значения, функция calc()
 3. Медиазапросы
 
+Ссылка на GitHub Pages https://dmitrydobro.github.io/russian-travel/
