@@ -1,8 +1,9 @@
 .places__website-heading {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 12px;
-    letter-spacing: 2px;
-    color: #aaaaaa;
-  }
+  margin-bottom: 12px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #aaaaaa;
+}

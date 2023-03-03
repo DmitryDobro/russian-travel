@@ -6,12 +6,6 @@
   color: #ffffff;
 }
 
-@media (max-width: 768px) {
-  .footer__link {
-    font-size: 16px;
-    line-height: 18px;
-  }
-}
 @media (max-width: 500px) {
   .footer__link {
     font-size: 24px;

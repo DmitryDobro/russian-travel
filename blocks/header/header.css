@@ -1,8 +1,10 @@
 .header {
-  width: 100%;
-  padding: 28px 45px 0;
+  max-width: 1184px;
+  margin: 0 auto;
+  padding: 28px 48px 0;
   display: flex;
   justify-content: space-between;
+  box-sizing: border-box;
 }
 @media (max-width: 768px) {
   .header {
@@ -11,6 +13,6 @@
 }
 @media (max-width: 420px) {
   .header {
-    padding: 16px 24px 0;
+    padding: 16px 16px 0;
   }
 }
