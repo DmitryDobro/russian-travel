@@ -6,6 +6,7 @@
     align-items: center;
     position: relative;
     min-height: 740px;
+    text-decoration: none;
   }
   .cover__link::before {
     content: '';
